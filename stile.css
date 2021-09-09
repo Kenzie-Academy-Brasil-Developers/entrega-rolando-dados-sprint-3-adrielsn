@@ -1,0 +1,14 @@
+body {
+    background-color: #145DA0;
+    font-size: 25px;
+    color: #B1D4E0
+  }
+
+
+@media only screen and (max-width: 900px) {
+    body {
+      background-color: #0C2D48;
+      font-size: 40px;
+    }
+    
+}
